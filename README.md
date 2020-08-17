@@ -22,11 +22,11 @@ On Thu, Jul 16, 2020 at 5:35 PM Brian Morris <brian@jfmorris.net> wrote:
 > Sent from my iPad
 
 
-Fri, Jul 17, 2020 at 2:03 PM
-Subject: Re: Scanning DVDs/books
-From: John Patrick Morris <johnpmorris@gmail.com>
-To: Brian Morris <brian@jfmorris.net>
-
+Fri, Jul 17, 2020 at 2:03 PM  
+Subject: Re: Scanning DVDs/books  
+From: John Patrick Morris <johnpmorris@gmail.com>  
+To: Brian Morris <brian@jfmorris.net>  
+  
 Fun stuff.
 
 You'll need to get from UPCs to ASINs - Amazon
