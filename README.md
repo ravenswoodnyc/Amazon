@@ -35,11 +35,11 @@ Bulk lookup: [https://www.synccentric.com/features/upc-asin/](https://www.syncce
 
 Thumbnails are listed as [images.amazon.com/images/P/ASIN.01.20TRZZZZ.jpg](images.amazon.com/images/P/ASIN.01.20TRZZZZ.jpg)
 
-so the thumbnail for Inferno: The World at War 1939-1945 (ASIN 0307475530, available at:[https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530](https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530))
+so the thumbnail for Inferno: The World at War 1939-1945 (ASIN 0307475530, on web at: [https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530](https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530))
 is available at: [images.amazon.com/images/P/0307273598.01.20TRZZZZ.jpg](images.amazon.com/images/P/0307273598.01.20TRZZZZ.jpg)
 
 There's a whole schema to the thumbnails - if you want larger, smaller,
-tilted, etc. [Link here](http://etutorials.org/Misc/amazon+tips+tools/Chapter+1.+Browsing+and+Searching/Hack+5+Link+Directly+to+Product+Images/)
+tilted, etc. [http://etutorials.org/Misc/amazon+tips+tools/Chapter+1.+Browsing+and+Searching/Hack+5+Link+Directly+to+Product+Images/](http://etutorials.org/Misc/amazon+tips+tools/Chapter+1.+Browsing+and+Searching/Hack+5+Link+Directly+to+Product+Images/)
 
 All of this is from a memory of doing it at your mother's house, rebuilt by
 looking at the html of [http://straightbounce.com/books](http://straightbounce.com/books)
