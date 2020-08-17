@@ -35,9 +35,7 @@ Bulk lookup: [https://www.synccentric.com/features/upc-asin/](https://www.syncce
 
 Thumbnails are listed as [images.amazon.com/images/P/ASIN.01.20TRZZZZ.jpg](images.amazon.com/images/P/ASIN.01.20TRZZZZ.jpg)
 
-so the thumbnail for Inferno: The World at War 1939-1945 (ASIN 0307475530) 
-[https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530](https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530)
-
+so the thumbnail for Inferno: The World at War 1939-1945 (ASIN 0307475530, available at:[https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530](https://www.amazon.com/Inferno-World-at-War-1939-1945/dp/0307475530))
 is available at: [images.amazon.com/images/P/0307273598.01.20TRZZZZ.jpg](images.amazon.com/images/P/0307273598.01.20TRZZZZ.jpg)
 
 There's a whole schema to the thumbnails - if you want larger, smaller,
