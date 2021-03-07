@@ -7,6 +7,6 @@ Here's what I'm thinking:
 - imdb page
 - poster
 - link to trailer 
-5.  Look into this: [This](https://devs.upcitemdb.com/) allows for 
+5.  Look into this: [This](https://devs.upcitemdb.com/) allows for some UPV data, but doesn't return ASIN IDs.
 6.  Maybe the OMDB API [here](https://rapidapi.com/blog/how-to-use-imdb-api/) would be useful.
 
